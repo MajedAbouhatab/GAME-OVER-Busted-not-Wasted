@@ -20,7 +20,7 @@ void setup() {
   digitalWrite(LED_BUILTIN, 0);
   // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
   // >username,password,clientID
-  Serial2.print(">8a4e1f40-a7bb-11ea-a67f-15e30d90bbf4,5d560678b6bf95417b5b789f794f7b24b75e2776,378ff9b0-f1e5-11ec-8da3-474359af83d7");
+  Serial2.print(">8adg1f40-a7bb-15ea-a6ff-15e30394bbf4,5d560678b6bf95417b56989f794f7b24gtte2776,378fd5b0-f1e5-tyfr-8da3-4746f9af83d7");
 }
 
 void loop() {
